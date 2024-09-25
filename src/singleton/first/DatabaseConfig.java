@@ -1,4 +1,4 @@
-package singleton;
+package singleton.first;
 
 public class DatabaseConfig {
     //поля для хранения конфигурации базы данных
